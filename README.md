@@ -25,18 +25,18 @@ ii) Your bandwidth is incapable of handling too much traffic, this is applicable
   
 When you are playing a game which uses AWS servers as game data centres, such as the following studios:
   
-..*Epic Games
-*Gearbox Software
-*Rovio
-*Capcom
-*Zynga
-*UBISOFT
-*Ankama
-*Sony Playstation
-*GungHo
-*Untold Studios
-*SundayToz
-*Gameloft
+* Epic Games
+* Gearbox Software
+* Rovio
+* Capcom
+* Zynga
+* UBISOFT
+* Ankama
+* Sony Playstation
+* GungHo
+* Untold Studios
+* SundayToz
+* Gameloft
 
 The AWS server you are connected to, for a brief moment experiences a overload in traffic and you might get redirected to a server in another country. 
 
