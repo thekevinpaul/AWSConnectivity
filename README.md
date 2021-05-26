@@ -58,7 +58,7 @@ To check your AWS server latency, please click [here](https://www.cloudping.clou
 
 You should be getting your closest server as the best one after doing all the steps. Thanks for your time and I hope this helps you cause this really drove me insane for the past month! 
 
-###Happy gaming/streaming!
+### Happy gaming/streaming!
 
 
 
