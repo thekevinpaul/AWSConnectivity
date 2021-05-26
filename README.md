@@ -40,6 +40,6 @@ When you are playing a game which uses AWS servers as game data centres, such as
 
 The AWS server you are connected to, for a brief moment experiences a overload in traffic and you might get redirected to a server in another country. 
 
-To check your AWS server latency, please click <a>here.</a>
+To check your AWS server latency, please click [here.]
  
   
