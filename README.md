@@ -42,11 +42,11 @@ The AWS server you are connected to, for a brief moment experiences a overload i
 
 To check your AWS server latency, please click [here](https://www.cloudping.cloud/aws)
 
-## You must be getting something like this:
+### You must be getting something like this:
 ![1Gi](https://user-images.githubusercontent.com/58849353/119665718-4a6a2c80-be52-11eb-88fd-55703734d849.png)
 
 
-In my case, it is currently Mumbai which is the closest server. But in case it was something else, the steps to reconnect to the Mumbai server would be:
+# In my case, it is currently Mumbai which is the closest server. But in case it was something else, the steps to reconnect to the Mumbai server would be:
 
 + **[Click this link](https://ec2-reachability.amazonaws.com) to see the IP Adresses of the ECR AWS servers used by these gaming studios.**
 + **Copy one of the IP Addresses of the closest server to you.**
