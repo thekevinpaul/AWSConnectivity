@@ -1,8 +1,8 @@
 # AWS Server Connectivity
-A short analysis on packeting and why you get connected to the wrong server while playing any game made by EA Sports.
+A short analysis on packeting and why you get connected to the wrong server while playing any game made by big Gaming Studios such as EA, Activision etc.
 
 
-I have written this repository after extensive study for the past month on how the packets released from our routers travel and reach AWS servers (Amazon Web Servers) who currently are in contract with EA Sports.
+I have written this repository after extensive study for the past month on how the packets released from our routers travel and reach AWS servers (Amazon Web Servers) who currently are in contract with EA for FIFA 21, hence my interest.
 
 Of course there is a lot of times, we as gamers, feel we enter matches or matchmaking situations where we feel we are in a game with ping so horrible it is unplayable.
 
