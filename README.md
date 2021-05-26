@@ -17,7 +17,7 @@ ii) Your bandwidth is incapable of handling too much traffic, this is applicable
 <b>iii) You are purely being connected to the wrong server as your ISP is under the impression the route to the server you're connected to, has the least latency.</b>
  
 
- <h>In this README.md, we will be addressing just this third point, which EA or infact, some other gaming organisations don't provide a strong enough method to troubleshoot for users.</h>
+### In this README.md, we will be addressing just this third point, which gaming studios don't provide a strong enough method to troubleshoot for users.
   
   I say this with personal experience, being a victim of continously being connected to a server 10 times as far as the nearest one to me.
   
