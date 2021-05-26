@@ -1,4 +1,4 @@
-# EAConnectivity
+# AWS Server Connectivity
 A short analysis on packeting and why you get connected to the wrong server while playing any game made by EA Sports.
 
 
@@ -21,7 +21,7 @@ ii) Your bandwidth is incapable of handling too much traffic, this is applicable
   
   I say this with personal experience being a victim of continously being connected to a server 10 times as far as the nearest one to me.
   
-  #Simple steps to get connected to the closest server:
+# Simple steps to get connected to the closest server:
   
   i) When you are playing a game which uses AWS servers as game data centres, such as the following studios:
   
