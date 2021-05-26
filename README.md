@@ -38,7 +38,7 @@ When you are playing a game which uses AWS servers as game data centres, such as
 * SundayToz
 * Gameloft
 
-The AWS server you are connected to, for a brief moment experiences a overload in traffic and you might get redirected to a server in another country. 
+The AWS server you are connected to, for a brief moment, experiences a overload in traffic and you might get redirected to a server in another country. 
 
 To check your AWS server latency, please click [here](https://www.cloudping.cloud/aws)
 
@@ -46,7 +46,7 @@ To check your AWS server latency, please click [here](https://www.cloudping.clou
 ![1Gi](https://user-images.githubusercontent.com/58849353/119665718-4a6a2c80-be52-11eb-88fd-55703734d849.png)
 
 
-# In my case, it is currently Mumbai which is the closest server. But in case it was something else, the steps to reconnect to the Mumbai server would be:
+# In my case, it is currently Mumbai which is the closest server, but in case it was something else, the steps to reconnect to the Mumbai server would be:
 
 + **[Click this link](https://ec2-reachability.amazonaws.com) to see the IP Adresses of the ECR AWS servers used by these gaming studios.**
 + **Copy one of the IP Addresses of the closest server to you.**
@@ -54,7 +54,7 @@ To check your AWS server latency, please click [here](https://www.cloudping.clou
 + **Open your Command Prompt in Windows and run the following command: ping (ip address of server), for example ping 3.6.0.0**
 ![3Gi](https://user-images.githubusercontent.com/58849353/119666659-31ae4680-be53-11eb-8b39-3cf69effdf24.png)
 
-+ **Run the AWS test again, [here.](https://www.cloudping.cloud/aws)**
++ **Once you feel satisfied with the ping results, run the AWS latency test again, [here.](https://www.cloudping.cloud/aws)**
 
 You should be getting your closest server as the best one after doing all the steps. Thanks for your time and I hope this helps you cause this really drove me insane for the past month! 
 
