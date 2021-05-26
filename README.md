@@ -17,13 +17,13 @@ ii) Your bandwidth is incapable of handling too much traffic, this is applicable
 <b>iii) You are purely being connected to the wrong server as your ISP is under the impression the route to the server you're connected to, has the least latency.</b>
  
 
- <h>In this readme.file we will be addressing just this third point, which EA or infact, some other gaming organisations don't provide a strong enough method to troubleshoot for users.</h>
+ <h>In this README.md, we will be addressing just this third point, which EA or infact, some other gaming organisations don't provide a strong enough method to troubleshoot for users.</h>
   
-  I say this with personal experience being a victim of continously being connected to a server 10 times as far as the nearest one to me.
+  I say this with personal experience, being a victim of continously being connected to a server 10 times as far as the nearest one to me.
   
 # Simple steps to get connected to the closest server:
   
-  i) When you are playing a game which uses AWS servers as game data centres, such as the following studios:
+When you are playing a game which uses AWS servers as game data centres, such as the following studios:
   
 Epic Games
 Gearbox Software
@@ -37,5 +37,9 @@ GungHo
 Untold Studios
 SundayToz
 Gameloft
+
+The AWS server you are connected to, for a brief moment experiences a overload in traffic and you might get redirected to a server in another country. 
+
+To check your AWS server latency, please click <a>here.</a>
  
   
