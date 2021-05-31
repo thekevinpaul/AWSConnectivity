@@ -10,7 +10,6 @@ This can be due to 3 factors:
 <br>
 
 - Your internet connection is purely not sufficient or fast enough to broadcast or stream your games in a capable manner.
-<br>
 
 - Your bandwidth is incapable of handling too much traffic, this is applicable when there are multiple devices in your house attempting to hog the bandwidth, eg. Someone streaming Netflix, Prime, etc in 4K
 
