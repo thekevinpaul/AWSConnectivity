@@ -50,7 +50,7 @@ To check your AWS server latency, please click [here](https://www.cloudping.clou
 
 + **Factory reset your router to base settings**
 
-+ **[Click this link](https://ec2-reachability.amazonaws.com) to see the IP Adresses of the ECR AWS servers used by these gaming studios.**
++ **[Click this link](https://ec2-reachability.amazonaws.com) to see the IP Adresses of the EC2 AWS servers used by these gaming studios.**
 + **Copy one of the IP Addresses of the closest server to you.**
 ![2Gi](https://user-images.githubusercontent.com/58849353/119666219-cf554600-be52-11eb-8c02-3184376e577d.jpg)
 + **Open your Command Prompt in Windows and run the following command: ping (ip address of server), for example ping 3.6.0.0**
