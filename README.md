@@ -38,7 +38,7 @@ When you are playing a game which uses AWS servers as game data centres, such as
 * SundayToz
 * Gameloft
 
-The AWS server you are connected to, for a brief moment, experiences a overload in traffic and you might get redirected to a server in another country. 
+The AWS server you are connected to, for a brief moment, experiences a overload in traffic and you might get redirected to a server in another country.
 
 To check your AWS server latency, please click [here](https://www.cloudping.cloud/aws)
 
@@ -47,6 +47,8 @@ To check your AWS server latency, please click [here](https://www.cloudping.clou
 
 
 # In my case, it is currently Mumbai which is the closest server, but in case it was something else, the steps to reconnect to the Mumbai server would be:
+
++ **Factory reset your router to base settings**
 
 + **[Click this link](https://ec2-reachability.amazonaws.com) to see the IP Adresses of the ECR AWS servers used by these gaming studios.**
 + **Copy one of the IP Addresses of the closest server to you.**
