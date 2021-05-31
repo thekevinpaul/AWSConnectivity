@@ -9,12 +9,12 @@ Of course there is a lot of times, we as gamers, feel we enter matches or matchm
 This can be due to 3 factors:
 <br>
 
-i) Your internet connection is purely not sufficient or fast enough to broadcast or stream your games in a capable manner.
+- Your internet connection is purely not sufficient or fast enough to broadcast or stream your games in a capable manner.
 <br>
 
-ii) Your bandwidth is incapable of handling too much traffic, this is applicable when there are multiple devices in your house attempting to hog the bandwidth, eg. Someone streaming Netflix, Prime, etc in 4K
+- Your bandwidth is incapable of handling too much traffic, this is applicable when there are multiple devices in your house attempting to hog the bandwidth, eg. Someone streaming Netflix, Prime, etc in 4K
 
-<b>iii) You are purely being connected to the wrong server as your ISP is under the impression the route to the server you're connected to, has the least latency.</b>
+- ** You are purely being connected to the wrong server as your ISP is under the impression the route to the server you're connected to, has the least latency.**
  
 
 ### In this README.md, we will be addressing just this third point, which gaming studios don't provide a strong enough method to troubleshoot for users.
